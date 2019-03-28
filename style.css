@@ -1,0 +1,5 @@
+body {background-color: white;color: black;}
+td {border: solid 1px white;}
+#chapter_name {text-transform: capitalize;}
+#toc {background-color: white;border: solid 1px black; color: black;}
+#pdfcell {background-color: #525659;border: solid 1px black;}
