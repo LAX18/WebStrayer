@@ -16,6 +16,6 @@
   "start_url": "/index.html",
   "background_color": "#FFFFFF",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/WebStrayer",
   "theme_color": "#525659"
 }
