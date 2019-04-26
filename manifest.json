@@ -15,7 +15,7 @@
   ],
   "start_url": "/WebStrayer/index.html",
   "background_color": "#FFFFFF",
-  "display": "fullscreen",
+  "display": "standalone",
   "scope": "/WebStrayer/",
   "theme_color": "#525659"
 }
